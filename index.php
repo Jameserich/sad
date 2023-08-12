@@ -6,12 +6,12 @@
     <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYV-qo95tsUK4qWUrFQ9mGFiESh_rpd0xWQ&amp;usqp=CAU">
 
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/vendors.css">
-    <link rel="stylesheet" type="text/css" href="css/app-lite.css">
-    <link rel="stylesheet" type="text/css" href="css/vertical-menu.css">
-    <link rel="stylesheet" type="text/css" href="css/palette-gradient.css">
-    <link rel="stylesheet" type="text/css" href="css/fun.css">
+    <link href="font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="vendors.css">
+    <link rel="stylesheet" type="text/css" href="app-lite.css">
+    <link rel="stylesheet" type="text/css" href="vertical-menu.css">
+    <link rel="stylesheet" type="text/css" href="palette-gradient.css">
+    <link rel="stylesheet" type="text/css" href="fun.css">
          <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     </head><body class="vertical-layout" style="background-color:#000;" data-color="bg-gradient-x-purple-blue">   
   
@@ -294,7 +294,7 @@ function generateCard(bin){
     </div>
  
  
-    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="jquery.min.js" type="text/javascript"></script>
 
 
 <script>

@@ -1,0 +1,310 @@
+@font-face {
+  font-family: 'my-font';
+  src: url('font.otf') format('truetype');
+
+}
+  
+}
+		h5,h4{
+			color:white;
+                        text-shadow: 2px 2px 4px #000000;
+		}
+		.text-center{
+			background-color:#000000;
+                        text-shadow: 2px 2px 4px #000000;
+			border:none;
+			border-radius:5px;
+		}
+		textarea{
+			color:white;
+                        text-shadow: 2px 2px 4px #000000;
+			resize: none;
+		}
+		.text-center::placeholder{
+			color:solid white;
+                        text-shadow: 2px 2px 4px #000000;
+		}
+		.text-center:focus{
+			background-color: black;
+			border:2px solif #FFFFFF;
+		}
+		textarea::-webkit-scrollbar {
+  			width: 5px;
+ 			background-color: #0000000; 
+		}
+		textarea::-webkit-scrollbar-thumb {
+ 			border-radius: 10px;
+			border:none;
+                        text-shadow:2px 2px 4px #000000;
+  			background-color: #0000000; 
+		}
+		.lista_reprovadass{
+			color:#000000; 
+                        text-shadow: 2px 2px 4px #000000;
+			border:2px solid #FFFFFF;
+		}
+		.card-body{
+			background-color:#000000; 
+                        text-shadow: 2px 2px 4px #000000;
+			border:2px solid #FFFFFF;
+			border-radius:5px;
+		}
+		.text-center{
+			border:2px solid #FFFFFF;
+                        text-shadow: 2px 2px 4px #000000;
+			shadow:none;
+		}
+		.badge-success,.btn-success{
+			background-color:#000000;
+			color: white	;
+                        text-shadow: 2px 2px 4px #000000;
+		}
+		.btn-success:hover{
+			background-color: #00000;
+			color: white ;
+                        text-shadow:2px 2px 4px #000000;
+		}
+		.aprovadas{
+			background-color: #000000;
+			color: white	;
+                        text-shadow: 2px 2px 4px #000000;
+		}
+		.badge-danger{
+			background-color: #000000;
+			color: white	;
+                        text-shadow: 2px 2px 4px #000000;
+		}
+		.html body .content .content-wrapper{
+			background-color: #0000000;
+			border: 2px solid #FFFFFFF;
+		}
+		.btn-bg-gradient {
+   			 margin: 5px;
+			 width:49%;
+    		padding: 10px 40px;
+    		text-align: left;
+                text-shadow: 2px 2px 4px #000000;
+    		
+    		transition: 0.5s;
+    		background-size: 100% auto;
+    		color: white;            
+    		box-shadow: 0 0 0 20px #fff;
+    		border-radius: 5px;
+    		display: block;
+			-webkit-box-shadow: 0 0 0 0 #fff;
+  		}
+  		.btn-bg-gradient:hover {
+   			background-position: right center;
+    		color: #fff;
+                text-shadow: 2px 2px 4px #000000;
+  		}
+            text-align: left;
+            
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 5px;
+            display: block;
+			-webkit-box-shadow: 0 0 0 0 #FFFFFF;
+  		}
+  	     .btn-bg-gradient-x:hover {
+             background-position: right center;
+             text-shadow: 2px 2px 4px #000000;
+  		}
+		  .statusbar{
+			height:100px;
+			padding-top:20px;
+                        text-shadow: 2px 2px 4px #000000;
+		  }
+		  .hr-statusbar{
+			border:none;
+			height:2px;
+			background-color:#FFFFFF;
+		  }
+                 .icon-bar {
+                 width: 100%; 
+                background-color: #555; 
+                overflow: auto; 
+                 }
+.icon-bar a {
+  float: left;
+  text-align: center; 
+  width: 20%; 
+  padding: 7px 0;
+  transition: all 0.3s ease; 
+  color: white; 
+  font-size: 20px; 
+}
+.icon-bar a:hover {
+  background-color: #000; 
+}
+.active {
+  background-color: #555; 
+}
+ box-sizing: border-box;
+}
+
+.smaller-btn {
+  font-size: 10px;
+  padding: 3px 8px;
+  width: auto;
+}
+
+.mb-2 {
+  font-family: 'my-font', sans-serif;
+  font-size: 19px;
+  color: white;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.col-md-4 {
+  display: none;
+}
+
+.col-md-8 {
+  width: 100%;
+}
+
+.sex-md-4 {
+  display: none;
+}
+
+input#checkoutlink {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  color: white;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.btn-play {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.btn-stop {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.mb-1 {
+  font-family: 'my-font', sans-serif;
+  font-size: 19px;
+  color: white;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.input-2 {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 5px;
+  color: white;
+  width: 100%;
+  float: left;
+  border: 2px solid white;
+  resize: none;
+  background-color:#000000;
+  border-radius:5px;
+  min-height: 44px;
+}
+
+.input-3 {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 5px;
+  color: white;
+  width: 49.5%;
+  float: right;
+  border: 2px solid white;
+  resize: none;
+  background-color:#000000;
+  border-radius:5px;
+  min-height: 44px;
+}
+
+.btn-stop {
+	margin-top: 15px;
+	}
+	
+	.btn-play {
+		margin-top: 15px;
+		}
+
+.footer {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+div#lista_charge {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+div#lista_cvvs {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+div#lista_reprovadas {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+div#lista_aprovadas {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+.swal2-title {
+  font-family: 'my-font', sans-serif;
+    font-size: 21px;
+}
+.btn-submit {
+  font-family: 'my-font', sans-serif;
+  font-size: 16px;
+  
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+.show-charge, .show-live, .show-lives, .show-dies, .btn-trash, .btn-copy1, .btn-copy2, .btn-copy, .btn-play {
+  font-family: 'my-font', sans-serif;
+}
+body {
+  font-family: 'my-font', 'echo', sans-serif;
+}
+		  option { 
+    /* Whatever color  you want */
+    background-color: #000000;
+	color: white;
+        text-shadow: 2px 2px 4px #000000;
+	}
